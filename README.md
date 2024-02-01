@@ -1204,6 +1204,23 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 =======================================ASTRO SUPERSPORT==============================================
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/AstroSupersport5Flat.png/revision/latest" group-title="SPORTS LUAR", Astro Supersports 5
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=918982&extension=ts&play_token=9kf46kFDzB
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest" group-title="SPORTS LUAR", Astro Supersports 4
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1111031&extension=ts&play_token=Pugwij228j
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest" group-title="SPORTS LUAR", Astro Supersports 3
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1111032&extension=ts&play_token=TUWsaM2f5w
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest" group-title="SPORTS LUAR", Astro Supersports 2
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1111033&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest" group-title="SPORTS LUAR", Astro Supersports 1
+http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=1111034&extension=ts&play_token=PZ5yzWeZhj
+
+=======================================ASTRO SUPERSPORT MY==============================================
+
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS LUAR",ASTRO SUPERSPORT 1 MY
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
