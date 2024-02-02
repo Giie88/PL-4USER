@@ -1600,7 +1600,7 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 
 ====================================Sports TV==================================================
 
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="SPORTS LUAR",Sports TV 
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png" group-title="SPORTS LUAR",SportsTV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
