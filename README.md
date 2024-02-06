@@ -102,6 +102,10 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424735&ex
 
 ========================================INDOSIAR==========================================
 
+
+#EXTINF: -1 tvg-id="Indosiar.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/gvdo",group-title="EMTEK GROUP",INDOSIAR DIGITAL
+http://103.113.116.150:25461/mtm1/12345/3
+
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="EMTEK GROUP",INDOSIAR ZOZO
 https://link.zozotv.xyz:443/rozila969/abc12345/45
 
@@ -481,8 +485,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-id="indosiar.id" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+http://103.113.116.150:25461/mtm1/12345/3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="🇮🇩 NASIONAL 🇮🇩", INDOSIAR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1212,6 +1215,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 ==================================================================================
                                   LIGA BRI
 ==================================================================================
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="LIGA INDONESIA",INDOSIAR DIGITAL
+http://103.113.116.150:25461/mtm1/12345/3
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="LIGA INDONESIA",LIGA BRI INDOSIAR ( ZOZO )
 https://link.zozotv.xyz:443/rozila969/abc12345/45
