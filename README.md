@@ -5,12 +5,12 @@
 
  
 ==================================================================================
-                              GIAR_GIT88
+                              GIAR_PAS88
 ==================================================================================
 
 ==================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7zRYRD3/PALESTINE.jpg" group-title" group-title="PLAYLIST GIAR_GIT88", GIAR_GIT88
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7zRYRD3/PALESTINE.jpg" group-title" group-title="PLAYLIST GIAR_88", GIAR_PAS88
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
@@ -756,119 +756,459 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 ==================================================================================
+                                INDONESIA DIGITAL 
+==================================================================================
+
+=====================================ASIAN FOOD NETWORK=============================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lifestyle/afn.png" group-title="INDONESIA DIGITAL",AFN
+http://103.113.116.150:25461/mtm1/12345/99
+
+===============================ALJAZEERA===========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/aljazeera.png" group-title="INDONESIA DIGITAL",ALJAZEERA
+http://103.113.116.150:25461/mtm1/12345/35
+
+===================================ANIMAL PLANET===============================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/knowledge/animal_planet.png" group-title="INDONESIA DIGITAL",ANIMAL PLANET
+http://103.113.116.150:25461/mtm1/12345/88
+
+=====================================ANIPLUS=============================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="INDONESIA DIGITAL",ANIPLUS
+http://103.113.116.150:25461/mtm1/12345/26
+
+================================ANTV==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="INDONESIA DIGITAL",ANTV
+http://103.113.116.150:25461/mtm1/12345/10
+
+================================ASTRO==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/LY7kkGJ/Cricket.jpg" group-title="INDONESIA DIGITAL",ASTRO CRICKET
+http://103.113.116.150:25461/mtm1/12345/134
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/x33RSwC/Assp-1.jpg" group-title="INDONESIA DIGITAL",ASTRO SUPERSPORT 1
+http://103.113.116.150:25461/mtm1/12345/47
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/K5Kc6GC/Assp-2.jpg" group-title="INDONESIA DIGITAL",ASTRO SUPERSPORT 2
+http://103.113.116.150:25461/mtm1/12345/48
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/QvV1bzN/Assp-3.jpg" group-title="INDONESIA DIGITAL",ASTRO SUPERSPORT 3
+http://103.113.116.150:25461/mtm1/12345/49
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/k2GK5BW/Assp-4.jpg" group-title="INDONESIA DIGITAL",ASTRO SUPERSPORT 4
+http://103.113.116.150:25461/mtm1/12345/50
+
+==================================BBC========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.creativeboom.com/uploads/articles/8c/8c76bc7cf6bbc9b09a8a605fd79f725180d0d9e4_810.png" group-title="INDONESIA DIGITAL",BBC
+http://103.113.116.150:25461/mtm1/12345/34
+
+====================================BIOSKOP INDONESIA======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png" group-title="INDONESIA DIGITAL",BIOSKOP INDONESIA
+http://103.113.116.150:25461/mtm1/12345/23
+
+===================================BLOOMBERG=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/bloomberg.png" group-title="INDONESIA DIGITAL",BLOOMBERG
+http://103.113.116.150:25461/mtm1/12345/36
+
+====================================CARTOON NETWORK======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="INDONESIA DIGITAL",CARTOON NETWORK
+http://103.113.116.150:25461/mtm1/12345/107
+
+===============================CGTN===========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/cgtn.png" group-title="INDONESIA DIGITAL",CGTN
+http://103.113.116.150:25461/mtm1/12345/37
+
+=======================================CINEMAX===================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="INDONESIA DIGITAL",CINEMAX
+http://103.113.116.150:25461/mtm1/12345/20
+
+==================================CNA========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/cna.png" group-title="INDONESIA DIGITAL",CNA
+http://103.113.116.150:25461/mtm1/12345/41
+
+====================================CNBC INTERNATIONAL======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/cnbc_indonesia.png" group-title="INDONESIA DIGITAL",CNBC INTERNATIONAL
+http://103.113.116.150:25461/mtm1/12345/32
+
+=================================CNN INTERNATIONAL=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/cnn_international.png" group-title="INDONESIA DIGITAL",CNN INTERNATIONAL
+http://103.113.116.150:25461/mtm1/12345/29
+
+===================================DISCOVERY=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="INDONESIA DIGITAL",DISCOVERY
+http://103.113.116.150:25461/mtm1/12345/85
+
+==================================DW CHANEL========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/dw_tv.png" group-title="INDONESIA DIGITAL",DW CHANEL
+http://103.113.116.150:25461/mtm1/12345/38
+
+==================================EURO NEWS========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/euro_news.png" group-title="INDONESIA DIGITAL",EURO NEWS
+http://103.113.116.150:25461/mtm1/12345/39
+
+====================================FLIK======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/flik.png" group-title="INDONESIA DIGITAL",FLIK
+http://103.113.116.150:25461/mtm1/12345/22
+
+===================================FOX NEWS=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="tvg-logo="https://hometv.pw/logo/news/fox_news.png"" group-title="INDONESIA DIGITAL",FOX NEWS
+http://103.113.116.150:25461/mtm1/12345/42
+
+===============================FOX SPORTS===========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="INDONESIA DIGITAL",FOX SPORTS 1
+http://103.113.116.150:25461/mtm1/12345/123
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="INDONESIA DIGITAL",FOX SPORTS 2
+http://103.113.116.150:25461/mtm1/12345/124
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="INDONESIA DIGITAL",FOX SPORTS 3
+http://103.113.116.150:25461/mtm1/12345/122
+
+==================================FRANCE 24========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/france_24.png" group-title="INDONESIA DIGITAL",FRANCE 24
+http://103.113.116.150:25461/mtm1/12345/40
+
+=================================GTV=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="INDONESIA DIGITAL",GTV
+http://103.113.116.150:25461/mtm1/12345/7
+
+===================================HBO GROUP=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="INDONESIA DIGITAL",HBO
+http://103.113.116.150:25461/mtm1/12345/16
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_family.png" group-title="INDONESIA DIGITAL",HBO FAMILY
+http://103.113.116.150:25461/mtm1/12345/19
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png" group-title="INDONESIA DIGITAL",HBO HITS
+http://103.113.116.150:25461/mtm1/12345/17
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="INDONESIA DIGITAL",HBO SIGNATURE
+http://103.113.116.150:25461/mtm1/12345/18
+
+=================================HGTV=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lifestyle/hgtv.png" group-title="INDONESIA DIGITAL",HGTV
+http://103.113.116.150:25461/mtm1/12345/97
+
+================================HOREE==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/kids/horee.png" group-title="INDONESIA DIGITAL",HOREE
+http://103.113.116.150:25461/mtm1/12345/112
+
+==================================IDX CHANEL========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/idx.png" group-title="INDONESIA DIGITAL",IDX CHANEL
+http://103.113.116.150:25461/mtm1/12345/43
+
+===================================IMC=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/imc.png" group-title="INDONESIA DIGITAL",IMC
+http://103.113.116.150:25461/mtm1/12345/21
+
+=================================INDOSIAR=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="INDONESIA DIGITAL",INDOSIAR
+http://103.113.116.150:25461/mtm1/12345/3
+
+==================================INEWS========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="INDONESIA DIGITAL",INEWS
+http://103.113.116.150:25461/mtm1/12345/8
+
+======================================KOMPAS TV====================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/kompastv.png" group-title="INDONESIA DIGITAL",KOMPAS TV
+http://103.113.116.150:25461/mtm1/12345/13
+
+===================================MENTARI TV=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/kids/mentari.png" group-title="INDONESIA DIGITAL",MENTARI TV
+http://103.113.116.150:25461/mtm1/12345/25
+
+=====================================METRO TV=====================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/metrotv.png" group-title="INDONESIA DIGITAL",METRO TV
+http://103.113.116.150:25461/mtm1/12345/12
+
+================================MNCTV==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png"  group-title="INDONESIA DIGITAL",MNCTV
+http://103.113.116.150:25461/mtm1/12345/6
+
+===================================MOJI=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="INDONESIA DIGITAL",MOJI
+http://103.113.116.150:25461/mtm1/12345/15
+
+================================NAT GEO==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/knowledge/natgeo.png" group-title="INDONESIA DIGITAL",NAT GEO
+http://103.113.116.150:25461/mtm1/12345/86
+
+================================NAT GEO WILD==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/knowledge/natgeo_wild.png" group-title="INDONESIA DIGITAL",NAT GEO WILD
+http://103.113.116.150:25461/mtm1/12345/87
+
+==================================NET========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="INDONESIA DIGITAL",NET
+http://103.113.116.150:25461/mtm1/12345/11
+
+====================================RCTI======================================
+
+#EXTINF:0 tvg-id="ext"  tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="INDONESIA DIGITAL",RCTI
+http://103.113.116.150:25461/mtm1/12345/5
+
+===================================RTV=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/rtv.png" group-title="INDONESIA DIGITAL",RTV
+http://103.113.116.150:25461/mtm1/12345/14
+
+===================================SCTV=======================================
+
+#EXTINF:0 tvg-id="ext"  tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="INDONESIA DIGITAL",SCTV
+http://103.113.116.150:25461/mtm1/12345/4
+
+===================================SEA TODAY=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://cdn.pixabay.com/photo/2016/09/20/10/30/sea-1682198_960_720.png" group-title="INDONESIA DIGITAL",SEA TODAY
+http://103.113.116.150:25461/mtm1/12345/44
+
+==================================SINDONEWS TV========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/z2nz" group-title="INDONESIA DIGITAL",SINDONEWS TV
+http://103.113.116.150:25461/mtm1/12345/27
+
+=================================SKY SPORT=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/V9ZtgmT/Main-event.jpg" group-title="INDONESIA DIGITAL",SKY PROTECT
+http://103.113.116.150:25461/mtm1/12345/132
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/c6YFRcQ/Premier-league.jpg" group-title="INDONESIA DIGITAL",SKY SPORT (PREMIER LEAGE)
+http://103.113.116.150:25461/mtm1/12345/127
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/CpcgXh2/Cricket.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (CRICKET)
+http://103.113.116.150:25461/mtm1/12345/131
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/c6YFRcQ/Premier-league.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (EFL)
+http://103.113.116.150:25461/mtm1/12345/129
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/HxZFzSy/Football.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (FOOTBALL)
+http://103.113.116.150:25461/mtm1/12345/128
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/MR7xhyW/Formula-1.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (FORMULA)
+http://103.113.116.150:25461/mtm1/12345/130
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/GWQWk50/Golf.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (GOLF)
+http://103.113.116.150:25461/mtm1/12345/133
+
+==============================SUPERSPORT WORLD============================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (PREMIER LEAGUE)
+http://103.113.116.150:25461/mtm1/12345/55
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (SERI A)
+http://103.113.116.150:25461/mtm1/12345/56
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (LALIGA)
+http://103.113.116.150:25461/mtm1/12345/57
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (MOTOR SPORT)
+http://103.113.116.150:25461/mtm1/12345/58
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (TENNIS)
+http://103.113.116.150:25461/mtm1/12345/59
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (ACTION)
+http://103.113.116.150:25461/mtm1/12345/60
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (GOLF)
+http://103.113.116.150:25461/mtm1/12345/61
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (CRICKET)
+http://103.113.116.150:25461/mtm1/12345/62
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (AFRICA CUP)
+http://103.113.116.150:25461/mtm1/12345/63
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (RUGBY)
+http://103.113.116.150:25461/mtm1/12345/64
+
+==================================TLC========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="INDONESIA DIGITAL",TLC
+http://103.113.116.150:25461/mtm1/12345/98
+
+=====================================TRANS7=====================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="INDONESIA DIGITAL",TRANS7
+http://103.113.116.150:25461/mtm1/12345/1
+
+=====================================TRANSTV=====================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="INDONESIA DIGITAL",TRANSTV
+http://103.113.116.150:25461/mtm1/12345/2
+
+===================================TV ONE=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/tvone.png" group-title="INDONESIA DIGITAL",TV ONE
+http://103.113.116.150:25461/mtm1/12345/9
+
+===============================TRUE (PREMIER FOOTBALL)===========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/cDxj847/Premier-hd-1.jpg" group-title="INDONESIA DIGITAL",TRUE (PREMIER FOOTBALL) 1
+http://103.113.116.150:25461/mtm1/12345/69
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/6mSLLHJ/Premier-hd-2.jpg" group-title="INDONESIA DIGITAL",TRUE (PREMIER FOOTBALL) 2
+http://103.113.116.150:25461/mtm1/12345/70
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/FVRyVGD/Premier-hd-3.jpg" group-title="INDONESIA DIGITAL",TRUE (PREMIER FOOTBALL) 3
+http://103.113.116.150:25461/mtm1/12345/71
+
+=================================TRUE SPORTS=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title="INDONESIA DIGITAL",TRUE SPORTS 1 (THAI)
+http://103.113.116.150:25461/mtm1/12345/72
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/PDSNGWL/True-sport-2.jpg" group-title="INDONESIA DIGITAL",TRUE SPORTS 2 (THAI)
+http://103.113.116.150:25461/mtm1/12345/73
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/nD846N1/True-sport-3.jpg" group-title="INDONESIA DIGITAL",TRUE SPORTS 3 (THAI)
+http://103.113.116.150:25461/mtm1/12345/74
+
+=================================TRUE VISIONS =========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/LNGNc5k/Bein-1-th.jpg" group-title="INDONESIA DIGITAL",TRUE VISIONS (BEIN SPORT 1)
+http://103.113.116.150:25461/mtm1/12345/75
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/RzpRzdz/Bein-3-th.jpg" group-title="INDONESIA DIGITAL",TRUE VISIONS (BEIN SPORT 3)
+http://103.113.116.150:25461/mtm1/12345/76
+
+====================================TRUE TENNIS======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/r5pygFZ/True-tennis.jpg" group-title="INDONESIA DIGITAL",TRUE TENNIS
+http://103.113.116.150:25461/mtm1/12345/77
+
+=====================================WARKOP DKI=====================================
+
+#EXTINF:0 tvg-id="ext" group-title="INDONESIA DIGITAL",WARKOP DKI
+http://103.113.116.150:25461/mtm1/12345/45
+
+=================================WARNER BROS TV=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="INDONESIA DIGITAL",WARNER BROS TV
+http://103.113.116.150:25461/mtm1/12345/24
+
+==================================================================================
                                   ZOZO TV
 ==================================================================================
 
-#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="ZOZO INDONESIA",NET.
-https://link.zozotv.xyz:443/rozila969/abc12345/50
-#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="ZOZO INDONESIA",GTV
-https://link.zozotv.xyz:443/rozila969/abc12345/48
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="ZOZO INDONESIA",SCTV
-https://link.zozotv.xyz:443/rozila969/abc12345/46
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="ZOZO INDONESIA",MNCTV
-https://link.zozotv.xyz:443/rozila969/abc12345/49
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="ZOZO INDONESIA",RCTI
-https://link.zozotv.xyz:443/rozila969/abc12345/47
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="ZOZO INDONESIA",INDOSIAR
-https://link.zozotv.xyz:443/rozila969/abc12345/45
-#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="ZOZO INDONESIA",TRANS TV
-https://link.zozotv.xyz:443/rozila969/abc12345/43
-#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="ZOZO INDONESIA",TRANS 7
-https://link.zozotv.xyz:443/rozila969/abc12345/44
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="ZOZO INDONESIA",Dunia Lain
-https://link.zozotv.xyz:443/rozila969/abc12345/346
+==================================ANTV================================================
+
 #EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="ZOZO INDONESIA",ANTV
 https://link.zozotv.xyz:443/rozila969/abc12345/51
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="ZOZO INDONESIA",TVRI
-https://link.zozotv.xyz:443/rozila969/abc12345/359
-#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="ZOZO INDONESIA",Rtv
-https://link.zozotv.xyz:443/rozila969/abc12345/364
-#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="ZOZO INDONESIA",TVOne
-https://link.zozotv.xyz:443/rozila969/abc12345/142
+
+======================================Dunia Lain============================================
+
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="ZOZO INDONESIA",Dunia Lain
+https://link.zozotv.xyz:443/rozila969/abc12345/346
+
+===================================GTV===============================================
+
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="ZOZO INDONESIA",GTV
+https://link.zozotv.xyz:443/rozila969/abc12345/48
+
+==================================INDOSIAR================================================
+
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="ZOZO INDONESIA",INDOSIAR
+https://link.zozotv.xyz:443/rozila969/abc12345/45
+
+======================================INews============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="ZOZO INDONESIA",INews
+https://link.zozotv.xyz:443/rozila969/abc12345/476
+
+=================================KOMPAS TV=================================================
+
 #EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="ZOZO INDONESIA",KOMPAS TV
 https://link.zozotv.xyz:443/rozila969/abc12345/143
+
+===============================METRO TV===================================================
+
 #EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="ZOZO INDONESIA",METRO TV
 https://link.zozotv.xyz:443/rozila969/abc12345/144
+
+===================================MNCTV===============================================
+
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="ZOZO INDONESIA",MNCTV
+https://link.zozotv.xyz:443/rozila969/abc12345/49
+
+======================================MOJI============================================
 
 #EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.ibb.co/821LM3W/1642736412182.png" group-title="ZOZO INDONESIA",MOJI
 https://link.zozotv.xyz:443/rozila969/abc12345/475
 
-#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="ZOZO INDONESIA",INews
-https://link.zozotv.xyz:443/rozila969/abc12345/476
+====================================NET.==============================================
 
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="ZOZO INDONESIA",NET.
+https://link.zozotv.xyz:443/rozila969/abc12345/50
 
-=================================HBO ZOZO=====================================================
+===================================RCTI===============================================
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" group-title="🎬PREMIUM HBO🎬",A Cinemax HD
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-https://zozotv.xyz:443/rozila969/abc12345/107
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="ZOZO INDONESIA",RCTI
+https://link.zozotv.xyz:443/rozila969/abc12345/47
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="🎬PREMIUM HBO🎬",A HBO HD
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-https://zozotv.xyz:443/rozila969/abc12345/693
+================================RtV==================================================
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="🎬PREMIUM HBO🎬",A HBO Family HD
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-https://zozotv.xyz:443/rozila969/abc12345/98
+#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="ZOZO INDONESIA",RtV
+https://link.zozotv.xyz:443/rozila969/abc12345/364
 
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="🎬PREMIUM HBO🎬",A HBO Hits HD
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-https://zozotv.xyz:443/rozila969/abc12345/97
+===============================SCTV===================================================
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="🎬PREMIUM HBO🎬",A HBO Signature HD
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-https://zozotv.xyz:443/rozila969/abc12345/99
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="ZOZO INDONESIA",SCTV
+https://link.zozotv.xyz:443/rozila969/abc12345/46
 
+====================================TRANS 7==============================================
 
-=====================================HBO TV DIGITAL=============================================
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="ZOZO INDONESIA",TRANS 7
+https://link.zozotv.xyz:443/rozila969/abc12345/44
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="🎬PREMIUM HBO🎬",B CINEMAX FHD
-http://103.113.116.150:25461/mtm1/12345/20
+=================================TRANS TV=================================================
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="🎬PREMIUM HBO🎬",B HBO FHD
-http://103.113.116.150:25461/mtm1/12345/16
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="ZOZO INDONESIA",TRANS TV
+https://link.zozotv.xyz:443/rozila969/abc12345/43
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_family.png" group-title="🎬PREMIUM HBO🎬",B HBO FAMILY FHD
-http://103.113.116.150:25461/mtm1/12345/19
+===================================TVOne===============================================
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png" group-title="🎬PREMIUM HBO🎬",B HBO HITS FHD
-http://103.113.116.150:25461/mtm1/12345/17
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="ZOZO INDONESIA",TVOne
+https://link.zozotv.xyz:443/rozila969/abc12345/142
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="🎬PREMIUM HBO🎬",B HBO SIGNATURE FHD
-http://103.113.116.150:25461/mtm1/12345/18
+==================================TVRI================================================
 
-==================================HBO MAX========================================================
-
-#EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/ym97Fpc/CINEMAX.png",C Cinemax - MAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-
-#EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/Q95MS4r/HBO.png",C HBO MAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
-#EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/SN4p7jS/HBO-FAMILY.png",C HBO Family - MAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbofammax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-
-
-#EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/Q95MS4r/HBO.png",C HBO Hits - MAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-
-#EXTINF:-1 group-title="🎬PREMIUM HBO🎬" tvg-logo="https://i.ibb.co/qdtkwqY/HBO-SIGNATURE.png",C HBO Signature - MAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-
-
-==================================================================================
-                             HBO CINEMACHI ETV
-==================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="ZOZO INDONESIA",TVRI
+https://link.zozotv.xyz:443/rozila969/abc12345/359
 
 
 ======================================================================================
@@ -979,10 +1319,9 @@ http://103.113.116.150:25461/mtm1/12345/17
 #EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="🎬PREMIUM HBO🎬",D HBO SIGNATURE DGT
 http://103.113.116.150:25461/mtm1/12345/18
 
-
-
-=====================================CINEMACHI=============================================
-
+======================================================================================
+									CINEMACHI
+======================================================================================
 
 #EXTINF:-1 group-title="🎬CINEMACHI🎬" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",A Cinemachi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2082,6 +2421,10 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="SPORTS PREMIUM",All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
+=======================================Astro Arena Bola===============================================
+
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS PREMIUM",Astro Arena Bola 
+https://link.zozotv.xyz:443/rozila969/abc12345/791
 
 =======================================Bahrain Sports===============================================
 
@@ -2141,6 +2484,14 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/eurosport.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="SPORTS PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+=====================================FUSSBALL============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS PREMIUM", FUSSBALL
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
 =====================================IMPACT! Wrestling=============================================
 
@@ -2809,6 +3160,23 @@ http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/214747
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="DELUXE SPORTS",AR-SP| KSA SSC 1 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551970
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="DELUXE SPORTS",AR-SP| KSA SSC 2 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551969
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 3 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="DELUXE SPORTS",AR-SP| KSA SSC 3 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551968
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 4 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="DELUXE SPORTS",AR-SP| KSA SSC 4 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551967
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 5 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="DELUXE SPORTS",AR-SP| KSA SSC 5 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551966
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 1 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="DELUXE SPORTS",AR-SP| KSA SSC EXTRA 1 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551965
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 2 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="DELUXE SPORTS",AR-SP| KSA SSC EXTRA 2 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551964
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 3 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="DELUXE SPORTS",AR-SP| KSA SSC EXTRA 3 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551963
 
 
 ==================================================================================
