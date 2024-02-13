@@ -5,7 +5,7 @@
 
  
 ==================================================================================
-                               TES CHANNEL
+                               PLAYLIST GIAR_GIT88
 ==================================================================================
 
 ==================================================================================
@@ -16,54 +16,6 @@
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 
-==================================================================================
-                          🇮🇩 FIFA MATCHDAY 🇮🇩
-==================================================================================
-
-
-
-#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="ASIA CUP 2024",Arena Bola 
-https://link.zozotv.xyz:443/rozila969/abc12345/791
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="ASIA CUP 2024", CH 01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
-https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="ASIA CUP 2024", CH 02
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e88098727fdd4373b69e823492ae620a:b8e5bda4102c9cca4dfa443aaaa337f0
-https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="ASIA CUP 2024",AFC CUP FUSSBALL
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="ASIA CUP 2024", Soccer Channel HD
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="ASIA CUP 2024", SSC 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-
-===========AFRICA CUP 2024======================
-
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024", AFRICA CUP 2024 BEIN SPORT 1 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=2816&extension=ts
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024", AFRICA CUP 2024 BEIN SPORT 2 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=2818&extension=ts
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/Logo/CAF/Can-TV-4K.png" group-title="AFRICA CUP 2024", AFRICA CUP 2024 S SPORT HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=57721&extension=ts
 
 ==================================================================================
                                     EMTEK GROUP
