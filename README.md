@@ -5,12 +5,12 @@
 
  
 ==================================================================================
-                              GIAR_PAS88
+                              PLAYLIST GIAR_GIT88
 ==================================================================================
 
 ==================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7zRYRD3/PALESTINE.jpg" group-title" group-title="PLAYLIST GIAR_88", GIAR_PAS88
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7zRYRD3/PALESTINE.jpg" group-title" group-title="PLAYLIST GIAR_GIT88", GIAR_GIT88
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
@@ -23,10 +23,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 
 
 ==================================================================================
-
+										EMTEK GROUP
 ==================================================================================
 
-========================================INDOSIAR==========================================
+===================================INDOSIAR===============================================
 
 
 
@@ -59,11 +59,17 @@ https://pencarijanda.000webhostapp.com/oxygen/indosiar.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 group-title="EMTEK GROUP" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png", INDOSIAR (vidio)
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
+
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP",INDOSIAR ZOZO
 https://link.zozotv.xyz:443/rozila969/abc12345/45
 
-
 =======================================MENTARI TV===========================================
+
 
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="EMTEK GROUP", MENTARI TV HD
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298546
@@ -77,7 +83,13 @@ https://pencarijanda.000webhostapp.com/oxygen/mentaritv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://srtv.my.id/vd/play.m3u8?id=8237&type=hls
 
-========================================MOJI==========================================
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 group-title="EMTEK GROUP" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png", Mentari TV (vidio)
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=8237&type=hls
+
+
+========================================Moji HD==========================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP", MOJI  DENZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -100,10 +112,15 @@ https://pencarijanda.000webhostapp.com/oxygen/moji.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=206&type=hls
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 group-title="EMTEK GROUP" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png", Moji (vidio)
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
+
 #EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP",MOJI ZOZO
 https://link.zozotv.xyz:443/rozila969/abc12345/475
 
-=====================================SCTV=============================================
+=======================================SCTV HD===========================================
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EMTEK GROUP", SCTV DENZ 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -130,6 +147,11 @@ https://pencarijanda.000webhostapp.com/oxygen/sctv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=204&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 group-title="EMTEK GROUP" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png", SCTV (vidio)
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
 
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV ZOZO
 https://link.zozotv.xyz:443/rozila969/abc12345/46
@@ -707,12 +729,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEZ0vPS.png" group-title="🇮🇩 NASIONAL 🇮🇩", TRANS7  
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://i.imgur.com/GEZ0vPS.png", Trans7 (vidio)
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=734&type=hls
+
 =================================TRANSTV=====================================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qzpw3yD.png" group-title="🇮🇩 NASIONAL 🇮🇩", TRANSTV 
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 ====================================TV ONE==============================================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:0 tvg-logo="https://i.imgur.com/uRmes0b.png" group-title="🇮🇩 NASIONAL 🇮🇩",TV One (vidio)
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=783&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -831,7 +863,8 @@ http://103.113.116.150:25461/mtm1/12345/37
 =======================================CINEMAX===================================
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="INDONESIA DIGITAL",CINEMAX
-http://103.113.116.150:25461/mtm1/12345/20
+#http://103.113.116.150:25461/mtm1/12345/20
+https://s.id/cinemax_shareext-m3u8|User-Agent=Shareext/5.0
 
 ==================================CNA========================================
 
@@ -897,16 +930,17 @@ http://103.113.116.150:25461/mtm1/12345/7
 ===================================HBO GROUP=======================================
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="INDONESIA DIGITAL",HBO
-http://103.113.116.150:25461/mtm1/12345/16
+#http://103.113.116.150:25461/mtm1/12345/16
+https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_family.png" group-title="INDONESIA DIGITAL",HBO FAMILY
-http://103.113.116.150:25461/mtm1/12345/19
+#http://103.113.116.150:25461/mtm1/12345/19
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png" group-title="INDONESIA DIGITAL",HBO HITS
-http://103.113.116.150:25461/mtm1/12345/17
+#http://103.113.116.150:25461/mtm1/12345/17
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="INDONESIA DIGITAL",HBO SIGNATURE
-http://103.113.116.150:25461/mtm1/12345/18
+#http://103.113.116.150:25461/mtm1/12345/18
 
 =================================HGTV=========================================
 
