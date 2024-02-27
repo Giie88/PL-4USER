@@ -128,6 +128,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #https://iptv.febianmart.com/play.m3u8?id=indosiar
 https://pencarijanda.000webhostapp.com/oxygen/indosiar.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR VIDIO 1
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR VIDIO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png",INDOSIAR VIDIO 3
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
+
 ==================================iNEWS================================================
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -386,76 +401,51 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 ================================Cinemax CUBMU======================================================
 
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="🎬HBO & CINEMACHI🎬",A Cinemax CUBMU
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11838
-
-
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="🎬HBO & CINEMACHI🎬",A HBO CUBMU
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11834
-
-
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies/hbo_family.png" group-title="🎬HBO & CINEMACHI🎬",A HBO Family CUBMU
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11837
-
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png" group-title="🎬HBO & CINEMACHI🎬",A HBO Hits CUBMU
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11836
-
-
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="🎬HBO & CINEMACHI🎬",A HBO Signature CUBMU
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11835
-
-======================================================================================
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="🎬HBO & CINEMACHI🎬",B CINEMAX HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="🎬HBO & CINEMACHI🎬",A CINEMAX HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/6
 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="🎬HBO & CINEMACHI🎬",B HBO HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="🎬HBO & CINEMACHI🎬",A HBO HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/2
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="🎬HBO & CINEMACHI🎬",B HBO FAMILY HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="🎬HBO & CINEMACHI🎬",A HBO FAMILY HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/5
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="🎬HBO & CINEMACHI🎬",B HBO HITS HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="🎬HBO & CINEMACHI🎬",A HBO HITS HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/3
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="🎬HBO & CINEMACHI🎬",B HBO SIGN HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="🎬HBO & CINEMACHI🎬",A HBO SIGN HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/4
 
 ======================================================================================
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="🎬HBO & CINEMACHI🎬",C Cinemax (Sg)
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="🎬HBO & CINEMACHI🎬",B Cinemax (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="🎬HBO & CINEMACHI🎬",C HBO (Sg)
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="🎬HBO & CINEMACHI🎬",B HBO (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="🎬HBO & CINEMACHI🎬",C HBO Family (Sg)
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="🎬HBO & CINEMACHI🎬",B HBO Family (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="🎬HBO & CINEMACHI🎬",C HBO Hits (Sg)
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="🎬HBO & CINEMACHI🎬",B HBO Hits (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="🎬HBO & CINEMACHI🎬",C HBO Signature (Sg)
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="🎬HBO & CINEMACHI🎬",B HBO Signature (Sg)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
@@ -763,15 +753,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 ==================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="LIGA INDONESIA",INDOSIAR DIGITAL
-#http://103.113.116.150:25461/mtm1/12345/3
-http://50.7.234.10:8278/Indosiar/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="LIGA INDONESIA", LIGA BRI INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-#https://dev-multiwebdotnet.pantheonsite.io/INDOSIAR HD
-http://50.7.234.10:8278/Indosiar/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="LIGA INDONESIA",LIGA BRI SPORTSTAR 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -785,21 +770,20 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-======================================================================================
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="LIGA INDONESIA",LIGA BRI VIDIO 1
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg",LIGA PEGADAIAN 1 
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#http://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg" group-title="LIGA INDONESIA",LIGA BRI VIDIO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg",LIGA PEGADAIAN 2 
-http://nyanv-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 group-title="LIGA INDONESIA" tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg",LIGA BRIVIDIO 3
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
 ======================================================================================
                                    SPORTS LOKAL
